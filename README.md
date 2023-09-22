@@ -34,11 +34,9 @@ To run this chat application locally, follow these steps:
 
 1. Clone the repository to your local machine using `git clone`.
 
-2. Install the required dependencies. You can use `pip` for Python dependencies and a package manager like `npm` or `yarn` for JavaScript dependencies.
+2. Run the Django development server.
 
-3. Run the Django development server.
-
-4. Access the application through your web browser.
+3. Access the application through your web browser.
 
 ## Usage
 
@@ -52,9 +50,6 @@ To run this chat application locally, follow these steps:
 
 Contributions are welcome! If you'd like to enhance the application or fix issues, please fork the repository and submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
